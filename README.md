@@ -12,12 +12,7 @@
 
 ### Sobre mim
 <div style="display: inline_block" >
-  
-  ![40OU](https://github.com/ayumilh/ayumilh/assets/83134763/c4452090-a1d5-45a6-9401-839edb9c0fec)
-  
   <p> - :mortar_board: Estudante de Desenvolvimento de Sistemas </p>
-  <!--   <p> - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas </p> -->
-  <!--   <p> - 🎯 Interesse: Java, Kotlin, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, Angular, AWS , kafka e Docker . </p> -->
 </div>
 
 ## Minhas skills :nerd_face:
