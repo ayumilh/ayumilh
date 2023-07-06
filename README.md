@@ -12,16 +12,11 @@
 
 ### Sobre mim
 <div style="display: inline_block" >
-![40OU](https://github.com/ayumilh/ayumilh/assets/83134763/c4452090-a1d5-45a6-9401-839edb9c0fec)
-  <p> - :mortar_board: Estudante de Desenvolvimento de Sistemas </p>
-<!--   <p> - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas </p> -->
-<!--   <p> - 🎯 Interesse: Java, Kotlin, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, Angular, AWS , kafka e Docker . </p> -->
-<!--   <p> - 🦊 Quando me perguntaram o que eu queria ser ? há um tempo atrás a minha resposta foi "SER HOKAGE" e hoje eu sou um engenheiro de software, nada haver kkk. Sou fã  -->
-<!-- do anime Naruto , eaê, bora assistir uns filler juntos ? </p> -->
-<!--   <p> - 🎮 Gosta de jogar Free fire? É só chamar, vamos subir de patente juntos ou não hehehe </p> -->
-    
+  ![40OU](https://github.com/ayumilh/ayumilh/assets/83134763/c4452090-a1d5-45a6-9401-839edb9c0fec)
+    <p> - :mortar_board: Estudante de Desenvolvimento de Sistemas </p>
+  <!--   <p> - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas </p> -->
+  <!--   <p> - 🎯 Interesse: Java, Kotlin, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, Angular, AWS , kafka e Docker . </p> -->
 </div>
 
-  
-## Sobre mim
-  - :mortar_board: Estudante de Desenvolvimento de Sistemas
+<i class="devicon-html5-plain-wordmark colored"></i>
+          
