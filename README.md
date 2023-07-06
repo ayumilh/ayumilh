@@ -1,7 +1,7 @@
 # Olá, sou Lara Ayumi 👋
 
 
-[![Lara Ayumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayumilh&show_icons=true)
+[![Lara Ayumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayumilh&theme=dracula)
 
 
 ## Sobre mim
