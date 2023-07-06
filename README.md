@@ -8,5 +8,4 @@
   - :mortar_board: Estudante de Desenvolvimento de Sistemas
 
 
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayumilh)](https://github.com/ayumilh/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayumilh)](https://github.com/anuraghazra/github-readme-stats)
