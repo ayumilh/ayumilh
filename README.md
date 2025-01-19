@@ -12,7 +12,7 @@
 
 ### Sobre mim
 <div style="display: inline_block" >
-  <p> - :mortar_board: Estudante de Desenvolvimento de Sistemas </p>
+  <p> - :mortar_board: Desenvolvedora de sistemas web. </p>
 </div>
 
 ## Minhas skills :nerd_face:
